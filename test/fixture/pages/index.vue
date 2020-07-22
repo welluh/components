@@ -6,5 +6,6 @@
     <IconHome />
     <MAwesome />
     <Functional />
+    <Docs />
   </div>
 </template>
